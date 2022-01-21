@@ -3,7 +3,7 @@ home: true
 heroText: ROS for Everybody
 tagline: Collection of notes related to ROS
 actionText: Get Started →
-actionLink: /en/
+actionLink: en/
 features:
 - title: Card 1
   details: Description
