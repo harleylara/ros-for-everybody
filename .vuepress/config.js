@@ -2,7 +2,7 @@ const getSidebar = require("./get_sidebar.js");
 
 module.exports = {
     title: "ROS for Everybody",
-    base: "/ros-for-everybody",
+    base: "/ros-for-everybody/",
     locales: {
         "/en/": {
             lang: "en-US",
